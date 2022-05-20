@@ -1,12 +1,9 @@
 ### Hello, world! 👋
 
-
-
-
+Hello there! Currently a Software Engineering student at [Sheridan College](https://www.sheridancollege.ca/), and also a student at [Ingate Educa](https://ingate.app/). Previously worked making some cool projects in Java with SpringBoot and ElasticSearch for a couple of years, and right now I'm transioning to a full-stack role, so trying to learn new things every day! Follow along in my journey of commits and pull requests while I disbrave this new world! 
 
 
 ### 🔥 My stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KimioN42&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimioN42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

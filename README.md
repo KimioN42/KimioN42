@@ -5,9 +5,9 @@ Hello there! Currently a Software Engineering student at [Sheridan College](http
 
 ### 🔥 My stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimioN42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimioN42&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Kimio's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimioN42)](https://github.com/anuraghazra/github-readme-stats)
+[![Kimio's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimioN42&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

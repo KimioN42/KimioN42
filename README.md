@@ -10,7 +10,7 @@ I am a Full Stack Software Developer focused on building clean, scalable, and hi
 * **Backend:** Node.js, Fastify, Express
 * **Frontend:** React, React Native, Vue, Angular
 * **Databases & Search:** PostgreSQL, MongoDB, MySQL, Elasticsearch
-* **Tools & DevOps:** Docker, Git, CI/CD, Supabase, Terraform, Google Cloud
+* **Tools & DevOps:** Docker, Git, CI/CD, Supabase, Google Cloud
 
 ---
 

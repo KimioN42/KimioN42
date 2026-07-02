@@ -25,4 +25,3 @@ I am a Full Stack Software Developer focused on building clean, scalable, and hi
 ### 📬 Connect with Me
 
 * [LinkedIn](https://www.linkedin.com/in/kimio-nishino/)
-* [GitHub](https://github.com/your-username)
